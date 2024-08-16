@@ -1,6 +1,6 @@
 # CoinWave
 
-CoinWave provide real-time cryptocurrency ticker information. With CoinWave, users can view current prices, gain/loss data, and search for specific cryptocurrencies to get the latest updates.
+CoinWave provide real-time cryptocurrency information. With CoinWave, users can view current prices, gain/loss data, and search for specific cryptocurrencies to get the latest updates.
 
 ## Features
 
