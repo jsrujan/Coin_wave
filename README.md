@@ -1,16 +1,10 @@
-# coins_app
+# CoinWave
 
-A new Flutter project.
+CoinWave is a mobile app designed to provide real-time cryptocurrency ticker information. With CoinWave, users can view current prices, gain/loss data, and search for specific cryptocurrencies to get the latest updates.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Real-Time Prices:** View up-to-date prices of various cryptocurrencies.
+- **Gain/Loss Information:** Check the gain or loss percentage for each cryptocurrency.
+- **Search Functionality:** Search for specific cryptocurrencies to get detailed information.
+- **User-Friendly Interface:** Intuitive design for easy navigation and usability.
